@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03ECAL-MJ03E-06-BOTPTA302-streamed-botpt_heat_sample
 data_stream: RS03ECAL-MJ03E-06-BOTPTA302-streamed-botpt_heat_sample
-end_date: '2022-01-21T02:51:30.000Z'
-last_updated: '2022-01-21T07:30:56.364506'
+end_date: '2022-01-01T00:54:41.000Z'
+last_updated: '2022-01-22T03:18:00.301612Z'
 start_date: '2014-09-03T21:00:01.000Z'
-status: success
+status: pending
